@@ -10,7 +10,7 @@ def speak_to_grandma(phrase)
 
 # If you shout, she can hear you (or at least she thinks so)
 # and yells back
-  
+
 # NO, NOT SINCE 1938!
 
   elsif phrase == phrase.upcase
